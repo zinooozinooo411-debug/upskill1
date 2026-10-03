@@ -1,0 +1,6 @@
+{
+  "name": "نمو طلابي - منصة المتابعة والتوجيه المدرسي",
+  "description": "منصة تعليمية تربوية تساعد الأساتذة على تقديم ملاحظات خاصة وعملية للطلاب، وتحويل الملاحظات إلى أهداف تطويرية واقعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
